@@ -21,7 +21,7 @@ we have trained,validated and tested for the dataset of kaggle provided above.
 Then save the models as .h5 files.
 
 To make use of this project for users, we have made an UI(User Interface).
-Codes and Interfaced can be accesed in below link:
+Codes and Interface can be accesed in below link:
 https://huggingface.co/spaces/vnavya2004/PNEUMONIA_DETECTION_MULTIMODEL
 
 You can upload an chest xray image and select the appropriate model , and submit it. You can get the results and compare with other models.
