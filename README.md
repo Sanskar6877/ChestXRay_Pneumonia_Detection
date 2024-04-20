@@ -6,8 +6,8 @@ Team Members:
 * Velpuru Navya 210001075
 
 Dataset collection : 
-Collect the dataset from the kaggle, link is provided below:
-https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+Collect the dataset from the drive, link is provided below:
+https://drive.google.com/drive/folders/1DA2ScHT5ZoxLHLhDrB5EiDY1iB4dJDS-?usp=drive_link
 
 We have Used 5 models : 
 * Model 1-CNN
