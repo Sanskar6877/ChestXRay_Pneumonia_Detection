@@ -21,7 +21,7 @@ we have trained,validated and tested for the dataset of kaggle provided above.
 Then save the models as .h5 files.
 
 To make use of this project for users, we have made an UI(User Interface).
-Codes and Interface can be accesed in below link or in the code portion above as app.py code and saved models:
+Codes and Interface can be accesed in below link or in the code portion above as app.py code and requirement.txt and the models you have saved above:
 https://huggingface.co/spaces/vnavya2004/PNEUMONIA_DETECTION_MULTIMODEL
 
 Create a space in hugging face and build and run it to see interface.
