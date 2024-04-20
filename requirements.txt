@@ -1,0 +1,6 @@
+gradio
+opencv-python
+numpy
+tensorflow
+keras==2.13.1
+keras_applications==1.0.8
